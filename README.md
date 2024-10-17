@@ -4,8 +4,8 @@ A simple randomly generated matrix on a grid implemented in Unity.
 ## Download the Project Package
 You can download the project package from the links below:
 
-- [Download ZIP](https://github.com/santosh161616/MatrixGrid/blob/main/GridAndMatrix.zip)
-- [Download Unity Package](https://github.com/santosh161616/MatrixGrid/blob/main/GridAndMatrix.unitypackage)
+- [Download ZIP](https://github.com/santosh161616/MatrixGrid/raw/main/GridAndMatrix.zip)
+- [Download Unity Package](https://github.com/santosh161616/MatrixGrid/raw/main/GridAndMatrix.unitypackage)
 
 ## Basic UI
 Here is a snapshot of the basic user interface:
