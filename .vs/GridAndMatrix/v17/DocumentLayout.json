@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\GridAndMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF7A39F-8518-659F-765F-F8041674C423}|Assembly-CSharp.csproj|e:\\unityprojects\\gridandmatrix\\assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF7A39F-8518-659F-765F-F8041674C423}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF7A39F-8518-659F-765F-F8041674C423}|Assembly-CSharp.csproj|E:\\UnityProjects\\GridAndMatrix\\assets\\scripts\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF7A39F-8518-659F-765F-F8041674C423}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\GridAndMatrix\\Assets\\Scripts\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cell.cs",
+              "ToolTip": "E:\\UnityProjects\\GridAndMatrix\\Assets\\Scripts\\Cell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:52:34.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\GridAndMatrix\\Assets\\Scripts\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridManager.cs",
+              "ToolTip": "E:\\UnityProjects\\GridAndMatrix\\Assets\\Scripts\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:04:04.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
